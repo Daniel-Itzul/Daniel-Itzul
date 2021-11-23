@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Daniel Herrera
 
 <!--
-**Daniel-Itzul/Daniel-Itzul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Daniel-Itzul/Daniel-Itzul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I'm a builder and a problem solver. Either as a Developer, Solutions Architect, or Product manager. I'm always excited to build tools that help people in any given scenario, professionally or personally 
 
@@ -31,4 +31,3 @@ If you have any materials on Rust applied to blockchain feel free to throw them 
 
 - 📫 How to reach me: @DanielWeb3Lover 
 - ⚡ Fun fact: I'm a Guatemalan Licensed Lawyer. I know a bit about dumb contracts.
--->
