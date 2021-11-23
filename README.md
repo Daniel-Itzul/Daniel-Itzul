@@ -8,9 +8,6 @@ I'm a builder and a problem solver. Either as a Developer, Solutions Architect, 
 
 In the past, I have been a Technical Product Manager in Data Ingestion and ETL for enterprise applications. I'm also a certified Cloud Solutions Architect by both AWS and Microsoft Azure.
 
-
-
-Check my github at: https://github.com/Daniel-Itzul
 - 🔭
 Currently, I'm the lead developer of the Khronus Protocol. A protocol that aims to simplify the management of time in blockchain and smart contracts.  Also, I'm a web3 developer and instructor for Moralis Web3.  I'm a firm believer in the power of decentralization and in the fact that web3 is the future. 
 
