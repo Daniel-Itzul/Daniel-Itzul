@@ -8,6 +8,46 @@ GitHub: https://github.com/Daniel-Itzul
 Mobile: +31 (6) 45245064, Location: Eindhoven
 
 ## 2. Experience
+* **Principal Developer Advocate**, Teradata, Netherlands · Hybrid (Apr 2023 – Present · 2 yrs 4 mos)  
+    - Steward of the Teradata Public GitHub organization, guiding internal teams on managing public repositories and contributing to open source projects. Contributor to Teradata open source initiatives, including the dbt-teradata connector and the Teradata MCP server.
+    - Internal advocate and expert on open-source data tools such as dbt, Airflow, and Airbyte.  
+    - Advocate for best practices in data governance, data engineering, machine learning, and model operations through Teradata solutions.
+    - Data engineering solutions architect, leading the creation and optimization of pipelines for data ingestion, transformation, and consumption, integrating Teradata products with AWS and Microsoft Azure.
+    - Architect of solutions and demos integrating generative AI into data lifecycle processes, including agents, RAG systems, and MCP servers.
+    - Creator of technical content in written and video formats.
+
+* **Consultant, Entrepreneur, and Technology Educator**, Moralis web3, Protocol Labs, own projects, (Jan 2020 - April 2023)
+    - Started the Khronus Project, as a protocol for managing time in Ethereum compatible blockchains.
+    - Obtained grants from the Taipei City Government and the Polygon foundation to develop and promote the Open Source Khronus Protocol.
+    - Advocated for developer communities by producing educational content, tutorials, and full courses on blockchain, smart contracts, DeFi, NFT marketplaces, and Web3 technologies for diverse audiences.
+    - Led and contributed to open source projects, including smart contract libraries (Khronus TimeCog), decentralized protocols (Khronus Protocol), and data analysis tools, promoting collaboration and knowledge sharing.
+    - Delivered technical workshops and talks at conferences, supporting code and data literacy, and mentoring developers in blockchain and Web3 best practices.
+
+* **Technical Product Manager – Data Ingestion, ETL**, Change Healthcare / Innova Solutions, Taipei City, Taiwan (Jul 2018 – Dec 2020 · 2 yrs 6 mos)  
+    - Led product management for the data ingestion module of Change Healthcare’s Smart Communications Platform, gathering, validating, and refining requirements for claim adjudication and fulfillment workflows.
+    - Defined and documented requirements for migrating ETL routines to AWS, improving scalability and reliability.
+    - Designed frameworks and workflows to generalize business rule application for health insurance fulfillment documents, including wireframe proposals.
+    - Established requirements and problem frameworks for transitioning provider communications to an omni-channel approach.
+    - Coordinated remote development teams in the US, India, and Taipei to deliver the first release of Change Healthcare Digital Delivery for provider communications.
+    - Proposed and scoped a blockchain-powered system to enhance transparency for charitable projects as part of Innova’s Corporate Social Responsibility initiatives.
+    - Developed Python routines to classify ETL jobs and API response elements, reducing redundant development and improving data mapping for claim fulfillment.
+    - Designed a proof of concept interpreter for a proprietary scripting language, addressing performance issues in legacy healthcare data extraction systems.
+
+* **Product Management Consultant**, Taiwan (Mar 2016 – Jun 2018 · 2 yrs 4 mos)  
+    - MiTac Inc: Developed go-to-market strategy for MiTac’s licensed Geospatial Information Framework, leveraging the existing IoT portfolio. Negotiated partnerships for launching AI solutions, prepared briefings on AI and machine learning use cases, supported Smart City sales efforts in Vietnam, Indonesia, and Nepal, and built web dashboard prototypes to guide product brainstorming.
+    - Aerocool Advanced Technologies: Designed product marketing processes to improve product launch efficiency, developed standard forms and a system for tracking marketing support tickets, created and deployed a marketing assets repository, and implemented translation processes for marketing assets in over 13 languages.
+    - Taroko Software: Led the launch of FreelanceWriting.com (now compose.ly).
+
+* **Multiregional Project Manager**, Xerox, United States, Guatemala (Nov 2014 – Feb 2016 · 1 yr 4 mos)  
+    - Managed the implementation of Managed Print Services contracts across the US, Mexico, Peru, and Chile, ensuring timely delivery and contract profitability.
+    - Oversaw Time to Revenue and Time to Profit performance for contracts averaging USD 1 million in total contract value.
+    - Designed financial reporting and project control tools to facilitate communication between project teams and senior management in the UK and US.
+
+* **Consultant and Project Manager**, Pamir Law Group, Taiwan (Jul 2010 – Oct 2012 · 2 yrs 4 mos)  
+    - Led cross-border negotiations and managed stakeholder communications between Chinese/Taiwanese and Latin American companies.
+    - Coordinated amendments to Turnkey Infrastructure Agreements, including scope definition, budget oversight, and schedule planning to ensure alignment of technical and legal requirements.
+    - Translated complex project requirements into actionable, legally enforceable deliverables.
+    - Coordinated due diligence processes for merger and acquisition transactions in compliance with local and international regulations.
 
 ## 3. Education
 * University of California, Berkeley – International and Executive Legal Education – 2013  
