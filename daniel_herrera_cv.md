@@ -9,7 +9,7 @@ Mobile: +31 (6) 45245064, Location: Eindhoven
 
 ## 2. Experience
 * **Principal Developer Advocate**, Teradata, Netherlands · Hybrid (Apr 2023 – Present · 2 yrs 4 mos)  
-    - Steward of the Teradata Public GitHub organization, guiding internal teams in managing public repositories and contributing to open-source projects. Contributor to Teradata open-source initiatives, including the dbt-teradata connector and the Teradata MCP server.
+    - Steward of the Teradata Public GitHub organization, guiding internal teams in managing public repositories and contributing to open-source projects. Designed the first internal guidelines for creating public repositories and onboarding contributors. Contributor to Teradata open-source initiatives, including the dbt-teradata connector and the Teradata MCP server.
     - Internal advocate and subject matter expert on open-source data tools such as dbt, Airflow, and Airbyte.  
     - Advocate for best practices in data governance, data modeling, data engineering, machine learning, and model operations through Teradata solutions.
     - Data engineering solutions architect, leading the creation and optimization of pipelines for data ingestion, transformation, and consumption, integrating Teradata products with the open-source modern data stack and with AWS and Microsoft Azure services.
@@ -25,14 +25,9 @@ Mobile: +31 (6) 45245064, Location: Eindhoven
     - Delivered technical workshops and talks at conferences, supporting code and data literacy, and mentoring developers in blockchain and Web3 best practices.
 
 * **Technical Product Manager – Data Ingestion, ETL**, Change Healthcare / Innova Solutions, Taipei City, Taiwan (Jul 2018 – Dec 2020 · 2 yrs 6 mos)  
-    - Led product management for the data ingestion module of Change Healthcare’s Smart Communications Platform, gathering, validating, and refining requirements for claim adjudication and fulfillment workflows.
-    - Defined and documented requirements for migrating ETL routines to AWS, improving scalability and reliability.
-    - Designed frameworks and workflows to generalize business rule application for health insurance fulfillment documents, including wireframe proposals.
-    - Established requirements and problem frameworks for transitioning provider communications to an omni-channel approach.
+    - Led product management for the data ingestion module of Change Healthcare’s Smart Communications Platform, gathering, validating, and refining requirements for claim adjudication and fulfillment workflows. Coordinated teams in the United States and Taiwan.
     - Coordinated remote development teams in the US, India, and Taipei to deliver the first release of Change Healthcare Digital Delivery for provider communications.
     - Proposed and scoped a blockchain-powered system to enhance transparency for charitable projects as part of Innova’s Corporate Social Responsibility initiatives.
-    - Developed Python routines to classify ETL jobs and API response elements, reducing redundant development and improving data mapping for claim fulfillment.
-    - Designed a proof of concept interpreter for a proprietary scripting language, addressing performance issues in legacy healthcare data extraction systems.
 
 * **Product Management Consultant**, Taiwan (Mar 2016 – Jun 2018 · 2 yrs 4 mos)  
     - MiTac Inc: Developed go-to-market strategy for MiTac’s licensed Geospatial Information Framework, leveraging the existing IoT portfolio. Negotiated partnerships for launching AI solutions, prepared briefings on AI and machine learning use cases, supported Smart City sales efforts in Vietnam, Indonesia, and Nepal, and built web dashboard prototypes to guide product brainstorming.
