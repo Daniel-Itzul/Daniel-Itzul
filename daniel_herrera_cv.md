@@ -9,18 +9,19 @@ Mobile: +31 (6) 45245064, Location: Eindhoven
 
 ## 2. Experience
 * **Principal Developer Advocate**, Teradata, Netherlands · Hybrid (Apr 2023 – Present · 2 yrs 4 mos)  
-    - Steward of the Teradata Public GitHub organization, guiding internal teams on managing public repositories and contributing to open source projects. Contributor to Teradata open source initiatives, including the dbt-teradata connector and the Teradata MCP server.
-    - Internal advocate and expert on open-source data tools such as dbt, Airflow, and Airbyte.  
-    - Advocate for best practices in data governance, data engineering, machine learning, and model operations through Teradata solutions.
-    - Data engineering solutions architect, leading the creation and optimization of pipelines for data ingestion, transformation, and consumption, integrating Teradata products with AWS and Microsoft Azure.
+    - Steward of the Teradata Public GitHub organization, guiding internal teams in managing public repositories and contributing to open-source projects. Contributor to Teradata open-source initiatives, including the dbt-teradata connector and the Teradata MCP server.
+    - Internal advocate and subject matter expert on open-source data tools such as dbt, Airflow, and Airbyte.  
+    - Advocate for best practices in data governance, data modeling, data engineering, machine learning, and model operations through Teradata solutions.
+    - Data engineering solutions architect, leading the creation and optimization of pipelines for data ingestion, transformation, and consumption, integrating Teradata products with the open-source modern data stack and with AWS and Microsoft Azure services.
     - Architect of solutions and demos integrating generative AI into data lifecycle processes, including agents, RAG systems, and MCP servers.
-    - Creator of technical content in written and video formats.
+    - Creator of technical content in both written and video formats.
+    - Project manager for developer advocacy team activities and internal data analyst responsible for building metrics dashboards.
 
-* **Consultant, Entrepreneur, and Technology Educator**, Moralis web3, Protocol Labs, own projects, (Jan 2020 - April 2023)
-    - Started the Khronus Project, as a protocol for managing time in Ethereum compatible blockchains.
-    - Obtained grants from the Taipei City Government and the Polygon foundation to develop and promote the Open Source Khronus Protocol.
+* **Consultant, Entrepreneur, and Technology Educator**, Moralis Web3, Protocol Labs, own projects (Jan 2021 – Apr 2023)  
+    - Started the [Khronus Project](https://github.com/Khronus-Project), a protocol for managing time in Ethereum-compatible blockchains.
+    - Obtained grants from the Taipei City Government and the Polygon Foundation to develop and promote the open-source Khronus Protocol.
     - Advocated for developer communities by producing educational content, tutorials, and full courses on blockchain, smart contracts, DeFi, NFT marketplaces, and Web3 technologies for diverse audiences.
-    - Led and contributed to open source projects, including smart contract libraries (Khronus TimeCog), decentralized protocols (Khronus Protocol), and data analysis tools, promoting collaboration and knowledge sharing.
+    - Led and contributed to open-source projects, including smart contract libraries ([Khronus TimeCog](https://github.com/Khronus-Project/Khronus_TimeCog)), decentralized protocols ([Khronus Protocol](https://github.com/Khronus-Project/Khronus_Node)), and [data scraping and analysis tools](https://www.youtube.com/watch?v=eWITn-44u5w), promoting collaboration and knowledge sharing.
     - Delivered technical workshops and talks at conferences, supporting code and data literacy, and mentoring developers in blockchain and Web3 best practices.
 
 * **Technical Product Manager – Data Ingestion, ETL**, Change Healthcare / Innova Solutions, Taipei City, Taiwan (Jul 2018 – Dec 2020 · 2 yrs 6 mos)  
@@ -51,7 +52,7 @@ Mobile: +31 (6) 45245064, Location: Eindhoven
 
 ## 3. Education
 * University of California, Berkeley – International and Executive Legal Education – 2013  
-    - **Intellectual Property Law and Technology Commercialization**: Trademark, patent, and copyright law, with emphasis on software development and open source applications.
+    - **Intellectual Property Law and Technology Commercialization**: Trademark, patent, and copyright law, with emphasis on software development and open-source applications.
 * National Chengchi University (Taiwan) – College of Law, College of Commerce – 2016 (Left the program with candidate status)  
     - **Doctoral Program in Technology Commercialization**: Research focused on droit d’auteur and copyright in software development.
 * National Chengchi University (Taiwan) – College of Commerce – 2011  
@@ -62,21 +63,21 @@ Mobile: +31 (6) 45245064, Location: Eindhoven
     - **Diploma in Information Technology and Software Development** 
 
 ## 5. Speaking and Writing
-* Speaker at developer conferences and meetups
+* Speaker at developer conferences and meetups:
     * Regular speaker at the Netherlands dbt meetup.
     * Selected speaker at PyData Eindhoven 2024.
     * Speaker at [Teradata Possible 2024](https://www.youtube.com/watch?v=rQsKRYimOcY).
-* Invited lecturer on copyright law applied to software development (2015)
+* Invited lecturer on copyright law applied to software development (2015):
     * University of San Carlos (Guatemala) 
     * University Galileo (Guatemala)
 * Technical blogs and articles on [information technology and software development](https://medium.com/@DanielH_Takes)
  
 ## 6. Skills and Certifications
-- Project and Product Management (scope, budget, schedule, communications, stakeholder management, agile best practices)
+- Project and Product Management (scope, budget, schedule, communications, stakeholder management, agile best practices):
     - Professional Project Manager PMP (PMI – 2015)
     - Professional Scrum Master (Scrum.org – 2019)
     - Professional Product Owner (Scrum.org – 2019) 
-- Technology (software development, cloud computing, machine learning, and artificial intelligence)
+- Technology (software development, cloud computing, machine learning, and artificial intelligence):
     - AI in Manufacturing (Technical University of Delft – 2025)
     - Azure Solutions Architect Expert (Microsoft – 2025)
     - AWS Certified Solutions Architect Associate (AWS - 2020)
