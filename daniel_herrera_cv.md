@@ -47,7 +47,7 @@ Mobile: +31 (6) 45245064, Location: Eindhoven
 
 ## 3. Education
 * University of California, Berkeley – International and Executive Legal Education – 2013  
-    - **Intellectual Property Law and Technology Commercialization**: Trademark, patent, and copyright law, with emphasis on software development and open-source applications.
+    - **Intellectual Property Law and Technology Commercialization**: Trademark, patent, and copyright law, with emphasis on software development and open-source licensing.
 * National Chengchi University (Taiwan) – College of Law, College of Commerce – 2016 (Left the program with candidate status)  
     - **Doctoral Program in Technology Commercialization**: Research focused on droit d’auteur and copyright in software development.
 * National Chengchi University (Taiwan) – College of Commerce – 2011  
