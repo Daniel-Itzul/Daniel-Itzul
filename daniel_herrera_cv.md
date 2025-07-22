@@ -76,3 +76,11 @@ Mobile: +31 (6) 45245064, Location: Eindhoven
     - AI in Manufacturing (Technical University of Delft – 2025)
     - Azure Solutions Architect Expert (Microsoft – 2025)
     - AWS Certified Solutions Architect Associate (AWS - 2020)
+
+## 7. Languages
+- Spanish - Native
+- English - Bilingual
+- Mandarin Chinese - B2
+- Brazilian Portuguese - B2
+- Italian A2
+- Dutch A1
