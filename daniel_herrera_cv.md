@@ -9,7 +9,8 @@ Mobile: +31 (6) 45245064, Location: Eindhoven
 
 ## 2. Experience
 * **Principal Developer Advocate**, Teradata, Netherlands · Hybrid (Apr 2023 – Present · 2 yrs 4 mos)  
-    - Steward of the Teradata Public GitHub organization, guiding internal teams in managing public repositories and contributing to open-source projects. Designed the first internal guidelines for creating public repositories and onboarding contributors. Contributor to Teradata open-source initiatives, including the dbt-teradata connector and the Teradata MCP server.
+    - Steward of the [Teradata Public GitHub organization](https://github.com/Teradata), guiding internal teams in managing public repositories and contributing to open-source projects. Designed the first internal guidelines for creating public repositories and onboarding contributors. 
+    - Contributor to Teradata open-source initiatives, including the [dbt-teradata](https://github.com/Teradata/dbt-teradata) connector and the [Teradata MCP server](https://github.com/Teradata/teradata-mcp-server).
     - Internal advocate and subject matter expert on open-source data tools such as dbt, Airflow, and Airbyte.  
     - Advocate for best practices in data governance, data modeling, data engineering, machine learning, and model operations through Teradata solutions.
     - Data engineering solutions architect, leading the creation and optimization of pipelines for data ingestion, transformation, and consumption, integrating Teradata products with the open-source modern data stack and with AWS and Microsoft Azure services.
