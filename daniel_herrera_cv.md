@@ -11,7 +11,7 @@ Mobile: +31 (6) 45245064, Location: Eindhoven
 
 Technical Product Manager and Developer Advocate with over 10 years of experience leading cross-functional initiatives in cloud infrastructure, data engineering, and AI/ML, with a focus on open-source technologies. Demonstrated success in managing large-scale projects, contributing to open-source communities, and scaling developer engagement. Certified Azure and AWS architect, PMP-certified, and skilled at aligning technical strategy with business goals across global teams.
 
-## 2. Experience
+## Experience
 * **Principal Developer Advocate**, Teradata, Netherlands · Hybrid (Apr 2023 – Present · 2 yrs 4 mos)  
     - Steward of the [Teradata Public GitHub organization](https://github.com/Teradata), guiding internal teams in managing public repositories and contributing to open-source projects. Designed the first internal guidelines for creating public repositories and onboarding contributors. 
     - Contributor to Teradata open-source initiatives, including the [dbt-teradata](https://github.com/Teradata/dbt-teradata) connector and the [Teradata MCP server](https://github.com/Teradata/teradata-mcp-server).
@@ -50,7 +50,7 @@ Technical Product Manager and Developer Advocate with over 10 years of experienc
     - Translated complex project requirements into actionable, legally enforceable deliverables.
     - Coordinated due diligence processes for merger and acquisition transactions in compliance with local and international regulations.
 
-## 3. Education
+## Education
 * University of California, Berkeley – International and Executive Legal Education – 2013  
     - **Intellectual Property Law and Technology Commercialization**: Trademark, patent, and copyright law, with emphasis on software development and open-source licensing.
 * National Chengchi University (Taiwan) – College of Law, College of Commerce – 2016 (Left the program with candidate status)  
@@ -62,7 +62,7 @@ Technical Product Manager and Developer Advocate with over 10 years of experienc
 * National Institute of Secondary Education in Computer Science (Guatemala) – 1999  
     - **Diploma in Information Technology and Software Development** 
 
-## 5. Speaking and Writing
+## Speaking and Writing
 * Speaker at developer conferences and meetups:
     * Regular speaker at the Netherlands dbt meetup.
     * Selected speaker at PyData Eindhoven 2024.
@@ -72,7 +72,7 @@ Technical Product Manager and Developer Advocate with over 10 years of experienc
     * University Galileo (Guatemala)
 * Technical blogs and articles on [information technology and software development](https://medium.com/@DanielH_Takes)
  
-## 6. Skills and Certifications
+## Skills and Certifications
 - Project and Product Management (scope, budget, schedule, communications, stakeholder management, agile best practices):
     - Professional Project Manager PMP (PMI – 2015)
     - Professional Scrum Master (Scrum.org – 2019)
@@ -82,7 +82,7 @@ Technical Product Manager and Developer Advocate with over 10 years of experienc
     - Azure Solutions Architect Expert (Microsoft – 2025)
     - AWS Certified Solutions Architect Associate (AWS - 2020)
 
-## 7. Languages
+## Languages
 - Spanish - Native
 - English - Bilingual
 - Mandarin Chinese - B2
