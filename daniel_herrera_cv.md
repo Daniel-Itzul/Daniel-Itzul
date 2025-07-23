@@ -7,6 +7,10 @@ GitHub: https://github.com/Daniel-Itzul
 
 Mobile: +31 (6) 45245064, Location: Eindhoven
 
+## Professional Summary
+
+Technical Product Manager and Developer Advocate with over 10 years of experience leading cross-functional initiatives in cloud infrastructure, data engineering, and AI/ML, with a focus on open-source technologies. Demonstrated success in managing large-scale projects, contributing to open-source communities, and scaling developer engagement. Certified Azure and AWS architect, PMP-certified, and skilled at aligning technical strategy with business goals across global teams.
+
 ## 2. Experience
 * **Principal Developer Advocate**, Teradata, Netherlands · Hybrid (Apr 2023 – Present · 2 yrs 4 mos)  
     - Steward of the [Teradata Public GitHub organization](https://github.com/Teradata), guiding internal teams in managing public repositories and contributing to open-source projects. Designed the first internal guidelines for creating public repositories and onboarding contributors. 
